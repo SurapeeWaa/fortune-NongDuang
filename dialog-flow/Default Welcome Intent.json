@@ -1,0 +1,146 @@
+{
+  "id": "12410f1e-73c7-4768-8fbe-68b7ef23b8c1",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "line",
+          "payload": {
+            "line": {
+              "type": "text",
+              "text": "สวัสดีครับค่ะ\nยินดีต้อนรับสู่แชทบอท\n \"Fortune-nongduang\"\nฉันชื่อน้องดวงนะคะ ยินดีให้บริการค่ะ"
+            }
+          },
+          "lang": "th"
+        },
+        {
+          "type": 4,
+          "platform": "line",
+          "payload": {
+            "line": {
+              "type": "sticker",
+              "packageId": "1",
+              "stickerId": "5"
+            }
+          },
+          "lang": "th"
+        },
+        {
+          "type": 0,
+          "speech": "สวัสดีค่ะ"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "userSays": [
+    {
+      "id": "da905c62-4a05-4d3c-9dd9-d04499aa54a3",
+      "data": [
+        {
+          "text": "ว่าไง"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "62f0d7e9-e41c-4457-b0b1-d1e476a2fa39",
+      "data": [
+        {
+          "text": "สวีดัส"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2a15622f-ff61-4664-9195-59f4a56853b3",
+      "data": [
+        {
+          "text": "สวัสดีจ้ะ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a8e0a982-0992-4280-8821-5d2d7f119aa4",
+      "data": [
+        {
+          "text": "หวัดดีจ้า"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ef5f88d0-13ba-4832-9510-889194fec4e4",
+      "data": [
+        {
+          "text": "ไม่เจอกันตั้งนาน"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3283d265-5814-4aa4-8942-a9d979e0248c",
+      "data": [
+        {
+          "text": "ขอทักทาย"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "be54cfa0-4910-43ca-9ee5-ac6180216c17",
+      "data": [
+        {
+          "text": "หวัดดี"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

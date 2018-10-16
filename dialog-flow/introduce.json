@@ -1,0 +1,85 @@
+{
+  "id": "1663fe6d-11f9-4b2b-8e2d-b956fb0ed5f1",
+  "name": "introduce",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "น้องดวงเอง",
+            "ดวงเองค่ะ",
+            "น้องดวงไงจ้ะ"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "146711c5-c125-43da-86e6-83c9812e920d",
+      "data": [
+        {
+          "text": "ใครครับ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6f95d12b-0dde-4486-acbe-e3f40b5dc05a",
+      "data": [
+        {
+          "text": "ใครคะ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6855ea97-4eea-44d5-b89e-c18e7d666696",
+      "data": [
+        {
+          "text": "ใครอ่ะ"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1a6c87e6-7401-4a26-aafd-00c30fcf85c5",
+      "data": [
+        {
+          "text": "คุณคือใคร"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}
