@@ -1,0 +1,14 @@
+//send welcome text
+{
+  "type": "text",
+  "text": "สวัสดีครับค่ะ\nยินดีต้อนรับสู่แชทบอท \n\"Fortune-nongduang\"\nฉันชื่อน้องดวงนะคะ ยินดีให้บริการค่ะ"
+}
+
+//send sticker
+{
+  "line": {
+    "type": "sticker",
+    "packageId": "1",
+    "stickerId": "5"
+  }
+}
