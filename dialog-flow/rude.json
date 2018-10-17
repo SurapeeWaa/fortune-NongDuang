@@ -1,0 +1,102 @@
+{
+  "id": "b0ef6701-dde1-4b56-9453-b2b303c3dbbc",
+  "name": "rude",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "โปรดรักษาความสุภาพในระหว่างการใช้บริการด้วยนะคะ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "516cc9b2-264d-4783-8942-c962c72d770c",
+      "data": [
+        {
+          "text": "อีดอก"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f6832b6f-70ce-4d6d-beb9-7121d525da26",
+      "data": [
+        {
+          "text": "อิสัส"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c5353c57-d8ec-4732-a0e1-64ce0b091727",
+      "data": [
+        {
+          "text": "ดอกทอง"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ca25677e-1dba-4c18-acb4-9ed8581b6509",
+      "data": [
+        {
+          "text": "ควาย"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f9de017e-66b0-4f08-8101-1aab46bab3ee",
+      "data": [
+        {
+          "text": "สัส"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "05b23bbd-9f09-4fb6-9bc4-7778ff0c358e",
+      "data": [
+        {
+          "text": "อิดอก"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}
