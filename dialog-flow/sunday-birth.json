@@ -1,0 +1,172 @@
+{
+  "id": "763c9c58-80f3-4f73-bdb1-e6c99ca06b0e",
+  "name": "sunday-birth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        },
+        {
+          "type": 4,
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "Flex Message",
+              "contents": {
+                "type": "bubble",
+                "direction": "ltr",
+                "header": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "วันอาทิตย์",
+                      "size": "xxl",
+                      "align": "center",
+                      "color": "#E82121"
+                    }
+                  ]
+                },
+                "hero": {
+                  "type": "image",
+                  "url": "https://www.sawasdeenakhonphanom.com/wp-content/uploads/2017/01/พระธาตุพนม.jpg",
+                  "size": "full",
+                  "aspectRatio": "20:13",
+                  "aspectMode": "cover"
+                },
+                "body": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "พระธาตุพนม",
+                          "size": "lg",
+                          "align": "center"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "อัญมณีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "มรกต"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "สีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "เขียว",
+                          "flex": 2
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "เลขนำโชค :",
+                          "flex": 2,
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "5,6,9",
+                          "flex": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator",
+                      "margin": "md"
+                    }
+                  ]
+                },
+                "footer": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "Locaton",
+                        "text": "ตำแหน่ง พระธาตุพนม"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "lang": "th"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "453b567c-8145-49bc-a592-017d5bf63d95",
+      "data": [
+        {
+          "text": "เกิดวันอาทิตย์"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

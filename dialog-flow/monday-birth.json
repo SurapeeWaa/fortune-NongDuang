@@ -1,0 +1,214 @@
+{
+  "id": "043de408-481a-41ad-b34d-699672bbb18e",
+  "name": "monday-birth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40b8074c-622b-4546-ad24-36cbc8ff59e0",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        },
+        {
+          "type": 4,
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "Flex Message",
+              "contents": {
+                "type": "bubble",
+                "header": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "คนเกิดวันจันทร์",
+                      "size": "xxl",
+                      "align": "center",
+                      "weight": "bold",
+                      "color": "#F7F47B"
+                    }
+                  ]
+                },
+                "hero": {
+                  "type": "image",
+                  "url": "https://i2.wp.com/www.nkp2day.com/wp-content/uploads/2012/06/พระธาตุเรณู-พระธาตุประจำวันจันทร์.jpg",
+                  "size": "full",
+                  "aspectRatio": "20:13",
+                  "aspectMode": "cover",
+                  "action": {
+                    "type": "uri",
+                    "label": "Action",
+                    "uri": "https://linecorp.com/"
+                  }
+                },
+                "body": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "พระธาตุเรณู",
+                          "size": "lg",
+                          "align": "center"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "อัญมณีมงคล  :   ",
+                          "color": "#AAAAAA",
+                          "wrap": true
+                        },
+                        {
+                          "type": "text",
+                          "text": "เพชร ",
+                          "align": "start"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "สีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "ฟ้า",
+                          "flex": 2
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "เลขนำโชค :",
+                          "flex": 2,
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "0,2,5,6 ",
+                          "flex": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator",
+                      "margin": "md"
+                    }
+                  ]
+                },
+                "footer": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "Location",
+                        "text": "ตำแหน่ง พระธาตุเรณู"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "lang": "th"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "6aaa3dd0-9853-4600-a1ec-887ff96d858b",
+      "data": [
+        {
+          "text": "ดวงคนวันจันทร์"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a71899f6-8fe3-47d7-aca0-ebe1ff5d85ef",
+      "data": [
+        {
+          "text": "เกิดวันจันทร์"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f4bb0e08-dea5-4958-a597-c41d4b86d049",
+      "data": [
+        {
+          "text": "วันจันทร์",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

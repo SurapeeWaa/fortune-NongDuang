@@ -1,0 +1,172 @@
+{
+  "id": "13c648b9-929b-4f54-94ec-ec822381beb1",
+  "name": "friday-birth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        },
+        {
+          "type": 4,
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "Flex Message",
+              "contents": {
+                "type": "bubble",
+                "direction": "ltr",
+                "header": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "วันศุกร์",
+                      "size": "xxl",
+                      "align": "center",
+                      "color": "#79E7CF"
+                    }
+                  ]
+                },
+                "hero": {
+                  "type": "image",
+                  "url": "https://f.ptcdn.info/675/050/000/ooud67hs2Z1kTF1pfvH-o.jpg",
+                  "size": "full",
+                  "aspectRatio": "20:13",
+                  "aspectMode": "cover"
+                },
+                "body": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "พระธาตุท่าอุเทน",
+                          "size": "lg",
+                          "align": "center"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "อัญมณีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "โกเมน"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "สีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "ขาว",
+                          "flex": 2
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "เลขนำโชค :",
+                          "flex": 2,
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "5,6,7",
+                          "flex": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator",
+                      "margin": "md"
+                    }
+                  ]
+                },
+                "footer": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "Location",
+                        "text": "ตำแหน่ง รพะธาตุท่าอุเทน"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "lang": "th"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "34762922-5df4-4af9-b90c-eb3041575208",
+      "data": [
+        {
+          "text": "เกิดวันศุกร์"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

@@ -1,0 +1,173 @@
+{
+  "id": "632819d8-44ff-4999-ab58-d38adc51c847",
+  "name": "tuesday-birth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        },
+        {
+          "type": 4,
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "Flex Message",
+              "contents": {
+                "type": "bubble",
+                "direction": "ltr",
+                "header": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "วันอังคาร",
+                      "size": "xxl",
+                      "align": "center",
+                      "color": "#F234E9"
+                    }
+                  ]
+                },
+                "hero": {
+                  "type": "image",
+                  "url": "https://th.readme.me/f/11874/59a1918f8d415a12f0be9454.jpg",
+                  "size": "full",
+                  "aspectRatio": "20:13",
+                  "aspectMode": "cover"
+                },
+                "body": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "พระธาตุศรีคุณ",
+                          "size": "lg",
+                          "align": "center"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "อัญมณีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "นิลดำ"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "สีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "เทา",
+                          "flex": 2
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "เลขนำโชค :",
+                          "flex": 2,
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "1,2,7,9",
+                          "flex": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator",
+                      "margin": "md"
+                    }
+                  ]
+                },
+                "footer": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "Location",
+                        "text": "ตำแหน่ง พระธาตุศรีคุณ"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "lang": "th"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "0e8af469-14ae-4278-9383-f42812cbd528",
+      "data": [
+        {
+          "text": "เกิดวันอังคาร"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

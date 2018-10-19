@@ -1,0 +1,172 @@
+{
+  "id": "84ac6f3b-c900-49c8-a83a-370637e45bab",
+  "name": "thursday-birth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        },
+        {
+          "type": 4,
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "Flex Message",
+              "contents": {
+                "type": "bubble",
+                "direction": "ltr",
+                "header": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "วันพฤหัสบดี",
+                      "size": "xxl",
+                      "align": "center",
+                      "color": "#F0BD57"
+                    }
+                  ]
+                },
+                "hero": {
+                  "type": "image",
+                  "url": "https://th.readme.me/f/3697/57483a7b057df1b3022f7adb.jpg",
+                  "size": "full",
+                  "aspectRatio": "20:13",
+                  "aspectMode": "cover"
+                },
+                "body": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "พระธาตุประสิทธิ์",
+                          "size": "lg",
+                          "align": "center"
+                        },
+                        {
+                          "type": "separator",
+                          "margin": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "md",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "อัญมณีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "ทับทิม"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "สีมงคล :",
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "ส้ม",
+                          "flex": 2
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "margin": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "เลขนำโชค :",
+                          "flex": 2,
+                          "color": "#AAAAAA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "1,3,4,5",
+                          "flex": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator",
+                      "margin": "md"
+                    }
+                  ]
+                },
+                "footer": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "Location",
+                        "text": "ตำแหน่ง พระธาตุประสิทธิ์"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "lang": "th"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "5b2cdc0e-884b-4576-8d26-359747fb9166",
+      "data": [
+        {
+          "text": "เกิดดวันพฤหัสบดี"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}
