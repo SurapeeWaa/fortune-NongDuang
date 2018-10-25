@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นไฟ",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การพบปะคนจำนวนมากมักเจอเหตุการณ์หรือคำพูดที่ไม่ค่อยน่าพอใจนัก หวังมีลูกก็จะได้มีลูก หวังคลอดธุรกิจใหม่ก็จะได้ทำดังใจคิด ระวังสัญชาตญาณกล้าได้กล้าเสียของคุณ จะทำให้คุณพลาดพลั้งได้",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "มีคนมีอายุมาชอบ หรือเข้ามาคุยกับคุณเยอะ ดูท่าแล้วคุณจะมีใครในใจแล้วด้วยสิ จะมีญาติผู้ใหญ่คอยเป็นแม่สื่อช่วยผลักดันให้คุณได้ลงเอยกับคนคุณที่ชื่นชอบ ชอบใคร รักใคร ให้ลุยเลย เพราะช่วงนี้มีโอกาสที่จะสมหวัง",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "สำหรับคนทำธุรกิจที่ต้องให้เครดิต จะเกิดมีปัญหาผิดนัดการจ่าย หรือมีโอกาสถูกฉ้อโกงได้ คนทำงานราชการระวังเรื่องการ ขยับขยายตำแหน่งหน้าที่ อาจจะมีคนไม่พอใจ ขัดแข้งขัดขากันได้ ต้องแบกภาระงานหลายอย่าง แต่ก็ไม่สามารถปฏิเสธได้ กลืนไม่เข้าคายไม่ออก",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

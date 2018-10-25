@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นป่าดงดิบ",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "จะมีเรื่องทะเลาะวิวาทกันของคนในบ้าน ให้ระวังเรื่องสุขภาพของคนที่บ้าน อยู่ในช่วงเวลาของความลุ่มหลง รักสนุก พบประสังสรรค์เฮฮา",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ท่านทียังโสดยังม่ายจะตกอยู่ในความสนใจของเพศตรงข้ามอย่างน้อยก็ 2 คน ขอให้วางตัวให้ดีๆ คนที่เป็นฟนกันมานานจะมีปัญหาเรื่องการมีคนใหม่ๆเข้ามาเกี่วข้องกับความรักของคุณ ถ้าไม่ระวังตัว ระวังใจของตัวคุณเองให้ดีๆจิตใจของคุณเองนั่นแหละที่จะทำให้คุณคิดเลยเถิดไปไกล",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การทำงานร่วมกับพรรคพวกต้องใช้สติกับมิตรภาพมากเป็นพิเศษ และงานจะลุล่วงผ่านพ้นไปด้วยดี คนรอบข้างหวังจะพึ่งพาบัตรเคดิตของคุณเพื่อรูดซื้อของชิ้นใหญ่ แล้วจะตกอยู่ในภาวะกลืนไม่เข้าคายไม่ออก จะมีคนกล่าวถึงคุณในแง่ลบ ใส่ร้าย เพราะเกิดจากความอิจฉาที่คุณมีผลงานโดดเด่นกว่า",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

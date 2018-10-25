@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นสุนัข",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การพบปะคนจำนวนมากมักเจอเหตุการณ์หรือคำพูดที่ไม่ค่อยน่าพอใจนัก สิ่งที่คุณหวังไว้จะได้สมหวังดังคิด เหมือนเนรมิตได้ดังตาเห็น ช่วงนี้จะทำอะไรก็ต้องเหนื่อยหน่อย จึงจะสำเร็จได้อย่างไม่มีปัญหา",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดต้องพึ่งพาเพื่อนฝูงคนใกล้ตัวคอยเป็นพ่อสื่อแม่ชักให้ถึงจะสำเร็จ ระวังจะเกิดอาการรักสั่นคลอน เพราะไม่รู้จะเลือกใครดี ค่อยๆคิดไปก่อน คนมีคู่หากทำงานติดต่อกับคนต่างชาติ ระวังคนรักของคุณจะหึงหวงเอานะ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "จะต้องระวังเรื่องคำพูดเป็นพิเศษ มีโอกาสที่จะเกิดเรื่องขัดแย้งจนถึงเป็นปากเสียงกันได้ ระวังการวางบิลเก็บเงินจะกลายเป็นหนี้สูญ ไม่สามารถเรียกเก็บได้ต้องทำใจทิ้งเงินก้อนนี้ไป จะมีเกณฑ์การเดินทางด้วยเรื่องของงาน และได้รับความสำเร็จเป็นอย่างดี",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

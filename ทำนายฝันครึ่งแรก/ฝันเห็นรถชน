@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันว่ารถชน",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "จะมีโชคอยู่ทางทิศตะวันตก มาจากคนผิวสองสี ทำดีจะได้ผลดีกลับคืนโดยเร็ว ใครที่ประสงค์ร้ายกับคุณก็ได้ผลร้ายให้คุณเห็น ได้พบปะรู้จักเพื่อนใหม่เพิ่มโดยเฉพาะคนอายุมากกว่า",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้ควรระวังเนื้อระวังตัวให้มาก อย่าปล่อยเนื้อปล่อยตัวเกินไป ช่วงนี้คุณต้องหนักแน่นให้มากๆ เพราะมือที่สามเขามาแรงจริงๆ คุณต้องแสดงให้เห็นว่าคุณรักเขามากขนาดไหน คุณอาจจะเข้าไปยุ่งเกี่ยวกับแฟนคนอื่นโดยไม่รู้ตัวจนเกิดปัญหาบ้านแตกได้",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "เป็นช่วงที่รับงานหนักให้อดทนไปก่อน แล้วผลที่ตามมาก็จะดีเอง จะได้รับความเห็นใจจากเจ้านาย ระวังจะใช้เงินเกินตัวหรือต้องเสียเงินเพราะคนรอบข้าง ในช่วงเดือน 2 เดือนนี้ คุณมีเกณท์ต้องใช้เงินมากเป็นพิเศษ ดังนั้นควรประหยัดซะหน่อยก็จะไม่เดือดร้อน",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

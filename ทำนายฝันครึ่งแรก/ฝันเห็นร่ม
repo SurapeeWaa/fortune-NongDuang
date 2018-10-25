@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเ็นร่ม",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้หากจะพูดอะไรก็ระวังเพราะคนอื่นจะเข้าใจตรงกันข้ามกับคุณ จะมีคนมาเล่าเรื่องราวความทุกข์คุณให้เห็นใจและให้คุณช่วยแก้ปัญหา โชคดีจะเกิดขึ้นจากคนที่คุณไปช่วยเหลือ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดมีเกณฑ์ได้พบกับการเริ่มต้นใหม่ในเรื่องความสัมพันธ์กับมิตรต่างเพศ ช่วงนี้ความรักของคุณยังเป็นไปอย่างเรื่อยๆ ไม่ค่อยมีอะไรหนักใจเท่าไรนัก คุณมีดวงที่ต้องเดินทางในระยะนี้ ทำให้คุณจะมีโอกาสห่างเหินกับคนที่คุณรัก",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ได้ลาภจากการพนัน เสี่ยงโชค โอกาศแบบนี้มีไม่บ่อยครั้ง น่าจะลองเสี่ยงดูบ้าง คนทำงานราชการระวังเรื่องการ ขยับขยายตำแหน่งหน้าที่ อาจจะมีคนไม่พอใจ ขัดแข้งขัดขากันได้ คุณอาจจะมีเกณฑ์การเปลี่ยนแปลง ย้ายที่ทำงาน หรือย้ายแผนก หรือมีการปรับตำแหน่งที่สูงขึ้นจากเดิม",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

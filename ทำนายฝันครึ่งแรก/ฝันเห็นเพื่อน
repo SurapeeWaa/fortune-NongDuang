@@ -1,0 +1,99 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นเพื่อน",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนอายุน้อยกว่าอาจสร้างปัญหาให้คุณ ระวังเรื่องอารมณ์ของคุณให้ดี เพราะมันจะนำมาซึ่งความเลวร้าย โชคดีจะเกิดขึ้นจากคนที่คุณไปช่วยเหลือ
+",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ความรักออกแนวศึกชิงรักหักสวาท มีเรื่องหึงหวงกวนใจกันตลอดเวลา ช่วงนี้คุณต้องหนักแน่นให้มากๆ เพราะมือที่สามเขามาแรงจริงๆ คุณต้องแสดงให้เห็นว่าคุณรักเขามากขนาดไหน คู่รักที่เลิกกันไปแล้วกว่าจะกลับมาคืนดีกันจะต้องรออีกนานถึงจะมีโอกาศรีเทิร์น
+",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "อาจจะต้องอดทนกับการงานสักนิด และอีกไม่นานโอกาสของคุณน่าจะมาถึงเร็วๆ นี้ ระวังจะเสียเงินก้อนหนึ่งไปกับเหตุการณ์ที่กลืนไม่เข้าคายไม่ออก หรือเสียเพราะคนอื่น การเงินอาจต้องลำบากใจจากการขอหยิบขอยืมอยู่บ้าง แต่ก็จะได้รับความช่วยเหลือจากเพื่อนสนิทต่างเพศเป็นอย่างดี",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นคนร้องไห้",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้จะทำอะไรก็ให้แบ่งรับแบ่งสู้อย่าเพ่ิงทุ่มไปซะจนหมดตัวและหัวใจ หวังมีลูกก็จะได้มีลูก หวังคลอดธุรกิจใหม่ก็จะได้ทำดังใจคิด คุณจะเจอเรื่องเครียด และแรงกดดันต้องรับภาระหลายอย่าง",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดจะได้พบคนที่ต้องตาต้องใจก็ต่อเมื่อได้เดินทางไปไหนสักแห่ง คบกันแบบเพื่อนมานานจะสวีตหวานแหววขึ้นในพริบตา คิดเตรียมแผนวิวาห์สายฟ้าแลบได้เลย คุณควรระวังในเรื่องคำพูด เพราะอาจจะทำลายมิตรภาพจนขาดสะบั้นได้ง่ายๆ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "มีคนจ้องทำร้ายหรือขโมยข้าวของ ต้องระมัดระวังให้ดี จะหาเงินได้ก้อนใหญ่จากกิจการที่คุณทำอยู่และอาจมีผู็มาร่วมลงทุนกับคุณเพ่ิมมากขึ้นแต่ให้ระวังเรื่องการแ่งปันผลประโยชน์ที่ไม่ลงตัว กิจการทั้งปวงซึ่งต้องสัมพันธ์หรือต้องติดต่อกับต่างประเทศาจะมีอุปสรรค เพราะการสื่อสารที่ไม่เข้าใจกัน",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นผู้หญิงคลอดลูก",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "สิ่งที่ตั้งใจไว้มากอาจจะยังไม่สำเร็จทันทีทันใดแต่สิ่งที่ไม่ได้คาดฝันอาจจะได้มาแบบฟลุคๆ  จะมีเรื่องติดขัดไม่ราบรื่นอันเนื่องมาจากคนรอบข้าง ระวังสัญชาตญาณกล้าได้กล้าเสียของคุณ จะทำให้คุณพลาดพลั้งได้",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนที่อยากมีกิ๊กบ้างคงต้องร้องเพลงรอเพราะอีกนานกว่าที่คุณจะสมหวัง จะต้องระวังเรื่องคนรักมีเกณฑ์นอกลู่นอกทาง คุณต้องเอาใจใส่คนรักให้ดีนะ ถ้าไม่ระวังตัว ระวังใจของตัวคุณเองให้ดีๆ จิตใจของคุณเองนั่นแหละที่จะทำให้คุณคิดเลยเถิดไปไกล",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "รายจ่ายส่วนใหญ่ที่เสียไปเป็นเพราะคนอื่นมาขอความช่วยเหลือ ต้องพิจารณาไต่ตรองให้ดี ๆ จะมีการติดต่อสร้างมิตรภาพใหม่กับชาวต่างชาติ ส่งผลให้การงานดีขึ้น เงินทองเข้ามาไม่ขาดสาย อย่าเพิ่งลงทุนร่วมหุ้นกับใครหากยังไม่รู้ใจกันดีพอ ต้องศึกษาประวัติกันให้ดีก่อน ป้องกันปัญหาที่จะตามมา",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

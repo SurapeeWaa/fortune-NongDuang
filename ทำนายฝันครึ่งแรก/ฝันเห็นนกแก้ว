@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นนกแก้ว",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คุณมีเกณฑ์จะต้องระวังในเรื่องของการหลอกลวงจากมิตรใหม่ที่เข้ามาสนิทสนมกับคุณ ให้ระวังการปวดข้อกระดูก ปวดหลัง โชคดีจะเกิดขึ้นจากคนที่คุณไปช่วยเหลือ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ถ้าคุณมีความเชื่อมั่นในกันและกันทั้งสองฝ่าย ความสุขจะบังเกิดกับคุณทันที คนที่มีคู่แล้วให้ระวังเรื่องความสัมพันธ์ที่จะเกิดขึ้นระหว่างคู่ของคุณกับเพื่อนสนิทของคุณ จับตาไว้ให้ดีๆ ถ้าไม่ระวังตัว ระวังใจของตัวคุณเองให้ดีๆ จิตใจของคุณเองนั่น แหละที่จะทำให้คุณคิดเลยเถิดไปไกล",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ระวังจะมีมือดีมาล้วงกระเป๋าเอาได้ง่ายๆ ต้องระมัดระวังมากขึ้นจากเดิม ไม่ว่าจะเป็นคนที่ไม่รู้จัก หรือคนใกล้ชิด เงินไม่คล่องมือ ต้องจ่ายเกี่ยวกับสุขภาพของท่านหรือการเรียนของลูกหลานหรือเพื่อซ่อมแซมที่อยู่อาศัย ใครที่เพิ่งเปลี่ยนงานใหม่ ถ้าย้ายไปแล้วก็ไม่ได้รับการยอมรับที่ดีกับเพื่อนร่วมงาน",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นสิงโต",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ต้องระวังเป็นพิเศษเกี่ยวกับเรื่องสุขภาพของผู้ใหญ่ที่จะไม่ค่อยปกติและเป็นเหตุ ให้ท่านกังวลใจ จะมีโอกาสพบปะสังสรรค์กับเืพ่อนเก่าหรือมีงานสังคมอยู่บ่อยครั้ง ระวังต้องทุกข์ยากลำบากใจด้วยเหตุซึ่งเกิดจากบุคคลซึ่งมีวัยเยาว์กว่า",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "มีคนมีอายุมาชอบ หรือเข้ามาคุยกับคุณเยอะ ดูท่าแล้วคุณจะมีใครในใจแล้วด้วยสิ ระวังจะเกิดอาการสั่นคลอน เพราะไม่รู้จะเลือกใครดี ค่อยๆคิดไปก่อน คุณจะมีโชคจากคนรัก อาจจะเป็นของฝากหรือของขวัญ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "มีความเสี่ยงที่จะเปลี่ยนงาน ออกจากงาน บางทีถึงขั้นตัดสินใจเปลี่ยนอาชีพเลยก็เป็นได้ คนทำงานราชการระวังเรื่องการขยับขยายตำแหน่งหน้าที่ อาจจะมีคนไม่พอใจ ขัดแข้งขัดขากันได้ เงินทองที่มีอยู่ให้ระวังเรื่องการจับจ่ายใช้สอยเสียบ้าง อย่าใช้จ่ายเกินตัวลืมตัว เพราะผลที่ได้รับคือการมีหนี้สิน",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

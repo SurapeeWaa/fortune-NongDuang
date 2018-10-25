@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นผู้หญิงไม่ใส่เสื้อผ้า",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "จะมีเหตุให้ต้องเดินทางไปธุระหลายแห่งจนแทบไม่มีโอกาสหยุดพัก จะมีคนมาเล่าเรื่องราวความทุกข์คุณให้เห็นใจและให้คุณช่วยแก้ปัญหา คุณระวังควรควบคุมวาจาอย่าพลั้งปากพูดอะไรแบบไม่คิด",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดอาจจะมีเรื่องรักซ้อนเข้ามาสอดแทรกให้ยุ่งยากใจได้ ใครที่ยังไม่ลงเสารักก็ให้ระวังจะเกิดอาการรักสั่นคลอนได้ เรื่องรักของคุณไม่ถือว่าราบรื่น มีงอน มีหึงหวง มีทะเลาะเบาะแว้งบ้าง เรียกว่าคู่ทรหดก็คงได้",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "รายจ่ายส่วนใหญ่ที่เสียไปเป็นเพราะคนอื่นมาขอความช่วยเหลือ ต้องพิจารณาไต่ตรองให้ดี ๆ ยิ้มและคิดดีพูดดีเข้าไว้แล้วจะได้โชคได้ลาภ อย่างที่คุณไม่คาดคิด หากเรียกร้องเก็บหนี้สินจากใครต้องใช้เวลานาน และต้องอดทนพอสมควรถึงจะสามารถเก็บได้หมด",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

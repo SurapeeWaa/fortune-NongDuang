@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นเด็กทารก",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้หากจะพูดอะไรก็ระวังเพราะคนอื่นจะเข้าใจตรงกันข้ามกับคุณ สิ่งที่คุณหวังไว้จะได้สมหวังดังคิด เหมือนเนรมิตได้ดังตาเห็น หากมีการเดินทางจะราบรื่นและปลอดภัยทุกประการ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดได้ดีใจกระโดดโลดเต้น เพราะเจอคนที่ถูกใจมาสารภาพรักต่อหน้า ช่วงนี้ดวงความรักของคุณกำลังเด่น ระวังแฟนเก่าของคุณจะกลับมาขอคืนดี ความรักจะมีอุปสรรคทำให้คุณต้องคิดมากเอาแต่ร้องไห้เสียใจ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "หลังจากนี้ไปอีกประมาณ 1 เดือนจะมีโชคมีลาภจะได้รับเงินหรือส่วนแบ่งจากการงานในช่วงนี้ จะมีคนทำให้เสียทรัพย์สินเช่น รถยนต์ นาฬิกา ทอง เพราะความไว้ใจจึงทำให้เสียรู้คนอื่น ช่วงนี้จะลงทุนก็ขอให้หาคนที่ สนิทจริงๆ มาปรึกษาหารือ ไม่ควรนำ ความในไปเล่าให้คนนอกกลุ่มฟังจะเกิดเรื่องหมางใจกัน",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

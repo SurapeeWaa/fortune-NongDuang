@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันว่าเดินทาง",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "สิ่งที่ตั้งใจไว้มากอาจจะยังไม่สำเร็จทันทีทันใดแต่สิ่งที่ไม่ได้คาดฝันอาจจะได้มาแบบฟลุคๆ  ระวังจะมีปัญหาความขัดแย้งกับคนใกล้ชิด ได้พบปะรู้จักเพื่อนใหม่เพิ่มโดยเฉพาะคนอายุมากกว่า",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ความรักออกแนวศึกชิงรักหักสวาท มีเรื่องหึงหวงกวนใจกันตลอดเวลา ระวังจะเกิดอาการรักสั่นคลอน เพราะไม่รู้จะเลือกใครดี ค่อยๆคิดไปก่อน ถ้าไม่ระวังตัว ระวังใจของตัวคุณเองให้ดีๆ จิตใจของคุณเองนั่นแหละที่จะทำให้คุณคิดเลยเถิดไปไกล",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "หลังจากนี้ไปอีกประมาณ 1 เดือนจะมีโชคมีลาภจะได้รับเงินหรือส่วนแบ่งจากการงานในช่วงนี้ จะมีคนมาทาบทามให้คุณไปทำงานด้วย แต่ช่วงนี้ดวงขึ้นยังไม่เหมาะกับการโยกย้ายงานรอประมาณช่วงสิ้นปีก่อนจะดีกว่า การงานได้รับความช่วยเหลือจากผู้ใหญ่ในสายงานเป็นอย่างดี",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

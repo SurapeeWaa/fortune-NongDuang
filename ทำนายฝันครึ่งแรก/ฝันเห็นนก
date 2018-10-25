@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นนก",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ญาติมิตรหรือคนที่อยู่ห่างไกลจะส่งข่าวหรือเดินทางมาหา จะมีสิ่งมากระทบจิตใจ ทำให้หวนคิดแต่เรื่องเก่าๆ ระวังข้าวของเครื่องใช้ภายในบ้านจะแตกหักสูญหาย",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดยังลงหลักปักฐานกับใครไม่ได้ เพราะคนที่เข้ามามักจะมีข้อเสียที่คุณรับไม่ได้ งั้นต้องอดทนรอต่อไป คู่รักที่คบกันมานาน ถึงเวลาแล้วที่จะได้ประกาศฤกษ์ดีเสียที คุณควรลดความขี้หึงลงบ้างในช่วงนี้ เพราะมีโอกาสทำให้คุณเลิกรากับคนที่คุณรักได้ง่ายมาก",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนทำงานเกี่ยวกับการประมูลแข่งขันจะสำเร็จได้นั้นควรเข้าหาผู้ใหญ่ จะดีช่วยเสริมดวงให้คุณได้ คนทำงานประจำจะมีปัญหากับ เพื่อนร่วมงานใหม่ๆ โดยเฉพาะอายุน้อยกว่า จะมีเกณฑ์การเดินทางด้วยเรื่องของงาน และได้รับความสำเร็จเป็นอย่างดี",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
