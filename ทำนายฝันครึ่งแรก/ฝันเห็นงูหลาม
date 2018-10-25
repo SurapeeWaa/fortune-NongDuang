@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นงูหลาม",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้จะทำอะไรก็ให้แบ่งรับแบ่งสู้อย่าเพิ่งทุ่มไปซะจนหมดตัวและหัวใจ จะมีการเปลี่ยนแปลงทั้งเรื่องงานและเรื่องที่อยู่อาศัย โชคดีจะเกิดขึ้นจากคนที่คุณไปช่วยเหลือ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดมีเพื่อนแปลกหน้าใหม่ๆ เข้ามาอยู่เสมอ ทำให้ไม่เหงาใจ คุณควรระวังเกี่ยวกับคู่ครองของคุณ เพราะอาจจะมีเรื่องร้อนใจหรือเกิดอุบัติเหตุขึ้นได้ คุณควรลดความขี้หึงลงบ้างในช่วงนี้ เพราะมีโอกาสทำให้คุณเลิกรากับคนที่คุณรักได้ง่ายมาก",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ริเริ่มทำการใดๆ อย่านั่งรอแค่หวังน้ำบ่อหน้า เพราะอาจจะไม่ได้อย่างที่ใจเราต้องการ เงินทองที่ใช้จ่ายไม่ต้องเป็นห่วง ใช้ไปเท่าไหร่ก็จะได้กลับมาเท่านั้น แต่ก็ประหยัดไว้บ้างก็ดี จะมีเกณฑ์การเดินทางด้วยเรื่องของงาน และได้รับความสำเร็จเป็นอย่างดี",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

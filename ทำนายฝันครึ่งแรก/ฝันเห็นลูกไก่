@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นลูกไก่",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การเสี่ยงโชค จงแสวงโชคจากคนที่ไม่รู้จักมาก่อนและมาจากทางทิศตะวันออก สุขภาพจิตใจไม่ค่อยดีนัก ผ่อนคลายบ้าง มีเหตุวิกฤตเกิดขึ้เล็กน้อย ทำให้กิจวัตรประจำวันไม่ราบรื่น",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดมีเกณฑ์ได้พบกับการเริ่มต้นใหม่ในเรื่องความสัมพันธ์กับมิตรต่างเพศ คนที่มีคนรักคู่ครองแล้วจะมีเรื่องทำให้ไม่สบายใจ ขัดใจกัน ระหองระแหงกันค่อนข้างรุนแรง ง้อแล้วก็ไม่ค่อยหายโกรธ ช่วงนี้หากคุณคิดจะมีกิ๊กระวังจะโดนจับได้",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การเงินเข้ามือขวาออกมือซ้าย เก็บเงินไม่ได้ เริ่มเป็นหนี้เป็นสิน กระทบกับชีวิตประจำวัน ระวังให้ดี หากทำสัญญากู้หนี้ยืมสินระหว่างเพื่อนกันจะถูกอีกฝ่ายบิดพลิ้ว เอารัดเอาเปรียบได้ เป็นโอกาสที่คุณจะได้เริ่มต้นงานใหม่ ๆ และประสบผลสำเร็จสูงเสียด้วย",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

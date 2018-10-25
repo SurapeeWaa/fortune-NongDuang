@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นพระ",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การเสี่ยงโชค จงแสวงโชคจากทีที่คุณยังไม่เคยไป จะมีคนมาเล่าเรื่องราวความทุกข์ให้คุณเห็นใจและให้คุณช่วยแก้ปัญหา ความเจริญของคุณจะมาจากความอ่อนน้อมถ่อมตนกับคนที่มีอายุมากกว่า",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนไม่โสดอย่าคิดแม้แต่จะมีกิ๊ก เพราะจะมีแต่ความยุ่งยาก วุ่นวายตามมาอย่างไม่คาดฝัน คนที่มีคู่แล้วให้ระวังเรื่องความสัมพันธ์ที่จะเกิดขึ้นระหว่างคู่ของคุณกับเพื่อนสนิทของคุณ จับตาดูไว้ให้ดีๆ ความรักของคุณค่อนข้างคลุมเครือ ไม่รู้ว่าคุณจะถูกจัดให้อยู่ในตำแหน่งแฟนหรืกิ๊กกันแน่",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ระวังการนำเงินไปลงทุน ไม่ว่าจะเป็นธุรกิจตัวเองหรือกับผู้อื่น ผลที่ได้กลับมาอาจจะไม่ดีนัก คนทำงานประจำจะมีปัญหากับเพื่อนร่วมงานใหม่ๆ โดยเฉพาะผู้ที่อายุน้อยกว่า หากเรียกร้องเก็บหนี้สินจากใครต้องใช้เวลานาน และต้องอดทนพอสมควรถึงจะสามารถเก็บได้หมด",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

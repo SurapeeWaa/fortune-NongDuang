@@ -1,0 +1,98 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นปลา",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "สิ่งที่ตั้งใจไว้มากอาจจะยังไม่สำเร็จทันทีทันใดแต่สิ่งที่ไม่ได้คาดฝันอาจจะได้มาแบบฟลุคๆ  ระวังการพบเจอกับคนแปลกหน้าที่ไม่ประสงค์ดี จะมีเรื่องให้ต้องครุ่นคิดอย่างลึกซึ้งมากมาย จะมีความกังวลมากกว่าปกติ
+",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดอดใจรอหน่อย เพราะช่วงปลายนี้มีแววได้โคแก่มาเป็นคู่แน่ๆ จะต้องระวังเรื่องคนรักมีเกณฑ์นอกลู่นอกทาง คุณต้องเอาใจใส่คนรักให้ดีนะ คุณควรระวังในเรื่องคำพูด เพราะอาจะทำลายมิตรภาพจนขาดสะบั้นได้ง่าย ๆ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การตัดสินใจของคุณจะมีคนกังขา เกิดเป็นประเด็นไม่จบง่ายๆ ให้ระวังการเผชิญหน้าให้ดี ควรระวังข้าวของมีค่าจะเสียหาย เครื่องจักรที่จำเป็นต่ออาชีพของคุณจะชำรุดจนต้องซื้อใหม่ ธุรกิจต้องอาศัยผู้ใหญ่คอยเป็นที่ปรึกษาหรือดูแลผลประโยชน์ให้ งานจึงจะไปได้ดี",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

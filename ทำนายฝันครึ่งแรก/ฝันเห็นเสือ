@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นเสือ",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้จะทำอะไรก็ให้แบ่งรับแบ่งสู้อย่าพึ่งทุ่มไปซะขนหมดตัวและหัวใจ จะมีคนมาเล่าเรื่องราวทุกความทุกข์ให้คุณให้เห็นใจและให้คุณช่วยแกปัญหา โชคดีที่จะเกิดจากคนที่คุณไปช่วยเหลือ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดได้แต่รอแล้วรอเล่า ยังไม่เจอคนที่โดนใจ คงต้องใจเย็นอย่างที่โบราณท่านว่าไว้ “ช้าๆ ได้พร้าเล่มงาม” จะต้องระวังเรื่องคนรักมีเกณฑ์นอกลู่นอกทาง คุณต้องเอาใจใส่คนรักให้ดีนะ ชอบใคร รักใคร ให้ลุยเลย เพราะช่วงนี้มีโอกาสที่จะสมหวัง",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้งานที่ทำหรือได้รับมอบหมายจะสำเร็จลุล่วงไปด้วยดี ไม่ติดขัดอะไร ธุรกิจการค้าในช่วงนี้อาศัยการเจรจาอย่างเดียวคงไม่พอ ต้องรู้จักใช้กลยุทธ์อื่นๆ ด้วย จะมีงานพิเศษเข้ามา หรือได้รับผิดชอบงานมากกว่าหนึ่งงาน แต่ผลงานจะสำเร็จผ่านลุล่วงไปด้วยดี",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

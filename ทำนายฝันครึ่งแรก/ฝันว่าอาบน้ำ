@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันว่าอาบน้ำ",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ใครที่เข้ามาขอความช่วยเหลือก็ลองดูข้อมูลหรือความเห็นของคนอื่นประกอบด้วยว่าสมควรหรือไม่อย่างไร จะมีโอกาสพบปะสังสรรค์กับเพื่อนเก่าหรือมีงานสังคมอยู่บ่อยครั้ง มีแต่คนคอยสร้างปัญหาให้คุณอยู่เสมอ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดมีเกณฑ์จะได้เริ่มต้นความสัมพันธ์กับคนที่มีเสน่ห์ในตัวเองมากๆ อยากได้บุตรหลาน ต้องขยันมีเพศสัมพันธ์ให้บ่อยครั้งจึงจะสมหวัง ปัญหาทางความรักจะมาจากอารมณ์ของคุณเอง ถ้าควบคุมอารมณ์ได้ดีก็ราบรื่นเป็นปกติดี",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "อาจจะต้องอดทนกับการงานสักนิด และอีกไม่นานโอกาสของคุณน่าจะมาถึงเร็วๆนี้จะมีคนมาทาบทามให้คุณไปทำงานด้วย แต่ช่วงนี้ดวงขึ้นยังไม่เหมาะกับการโยกย้ายงาน รอประมาณช่วงสิ้นปีก่อนจะดีกว่า เงินทองที่มีอยู่ให้ระวังเรื่องการจับจ่ายใช้สอยเสีย้าง อย่าใช้จ่ายเกินตัว เพราะผลที่ได้รับคือการมีหนี้สิน",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

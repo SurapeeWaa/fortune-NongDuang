@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นแมว",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คุณไม่ควรจะเข้าไปรับทำอะไรใหม่ๆ ที่เสี่ยง มีโอกาสที่จะพบกับเรื่องความทุกข์ ความเศร้ หรือไม่สมหวัง ไม่ว่าคุณจะทำอะไรดูเหมือนว่าจะมีอุปสรรคไปหมด",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดได้ดีใจกระโดดโลดเต้น เพราะเจอคนที่ถูกใจมาสารภาพรักต่อหน้า ความรักของคุณมักจะมาในรูปความเห็นใจซะมากกว่า แต่คุณก็ควรดูด้วยว่าสิ่งที่เกิดขึ้นเป็นความรักหรือความสงสารกันแน่  ถ้าไม่ระวังตัว ระวังใจของตัวคุณเองให้ดีๆ จิตใจของคุณเองนั่นแหละที่จะทำให้คุณคิดเลยเถิดไปไกล",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "การงานของคุณไม่สู้จะดีนัก โดยเฉพาะการประสานงานติดต่ออาจจะมีความขัดแย้งและไม่เห็นด้วยเกิดขึ้น มีการขัดแย้งกันในทีมงานถึงขั้นแตกแยกท่านจะร้อนใจเพราะลูกน้องลูกจ้างหรือบริวาร อย่าเพิ่งลงทุน ขยับขยาย ทำอะไรเสี่ยง ๆ ได้ไม่คุ้มเสีย",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันว่าโดนงูฉก",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "จะได้พบกับมิตรหน้าใหม่มากหน้าหลายตาเพิ่มขึ้น มีความอัดอั้น กังวลใจ ที่จะต้องระบายความในใจให้คนอื่นฟัง อยู่ในช่วงจังหวะชีวิตเปลี่ยนแปลง แต่มันจะทำให้คุณได้รับสิ่งใหม่ๆ ในชีวิต",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนโสดจะมีการเปลี่ยนแปลงความคิดที่เกี่ยวกับคนที่เข้ามาพัวพัน อาจจะเปิดโอกาสทางด้านความสัมพันธ์ฉันท์เพื่อน ไม่ควรเปิดใจรับใครใหม่ๆ ในตอนนี้ เพราะอาจจะทำให้คุณคิดมากได้ อย่าอยู่ใกล้เพศตรงข้าม เพราะมีโอกาสหวั่นไหวต่อกันสูง",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "สำหรับคนทำธุรกิจที่ต้องให้เครดิต จะเกิดมีปัญหาผิดนัดการจ่าย หรือมีโอกาสถูกฉ้อโกงได้ เงินพิเศษจะมาจากการบริการที่ถูกใจคนอื่น สินค้าที่เกิดจากไอเดียใหม่ๆ สถานะทางการเงินจะมีรายได้เข้ามามากกว่ารายจ่ายส่งผลให้ชีวิตคุณดีขึ้น",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

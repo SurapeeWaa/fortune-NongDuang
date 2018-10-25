@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นโลงศพ",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คุณไม่ควรจะเข้าไปรับทำอะไรใหม่ๆ ที่เสี่ยง จะมีเรื่องร้อนใจหรือไม่สบายใจที่มาจากพี่น้องของคุณเอง อาจจะได้เงินคืนจากลูกหนี้แบบไม่คาดคิดมาก่อน",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนมีแฟนระวังมีปากเสียงกัน ให้หาเวลาไปเที่ยวตากอากาศกันบ้าง เพื่อผ่อนคลายและเปลี่ยนบรรยากาศด้วย คุณจะได้ทราบข่าวจากผู้ปรารถนาดีเกี่ยวกับหวานใจของคุณที่ไปหว่านเสน่ห์ให้คนอื่น ช่วงนี้ความมีเสน่ห์ของคุณจะโดดเด่นมาก จนทำให้คนรักของคุณเริ่มหึงหวงนะ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "มีเรื่องใช้จ่ายที่ค่อนข้างสูง ไม่ว่าจะเป็นเรื่องของตนเอง หรือกับบริวาร คนรอบข้าง มีการขัดแย้งกันในทีมงานถึงขั้นแตกแยกท่านจะร้อนใจเพราะลูกน้องลูกจ้างหรือบริวาร ช่วงนี้เงินทองหามาด้วยความยากลำบากจึงไม่ควรใช้จ่ายสุรุ่ยสุร่ายในสิ่งที่ไม่จำเป็น",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

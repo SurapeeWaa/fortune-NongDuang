@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นเรือ",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คุณไม่ควรจะเข้าไปรับทำอะไรใหม่ๆที่เสี่ยง จะมีเรื่องร้อนใจหรือไม่สบายใจที่มาจากพี่น้องของคุณเอง ระวังสัญชาติญาณกล้าได้กล้าเสียของคุณ จะทำให้คุณพลาดพลั้งได้",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "อย่าปล่อยให้ตัณหาราคะมครอบงำจิตสำนึกเกินไป เพราะอาจเพลี่ยงพล้ำเสียตัวได้ ความรักหากมีปัญหากันก็ต้องค่อยๆพูดค่อยๆจา อย่าด่วนตัดสินใจพุดอะไรโดยไม่คิด เพราะจะทำให้คุณมานั่งเสียใจภายหลัง คุณมีโอกาสที่ะได้คู่รักเป็นคนต่างชาติ คนคนนี้ดูดีทีเดียว",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ช่วงนี้มีดวงเพศข้ามอุปถัมภ์อุ้มชู ทำให้ผ่านพ้นช่วงอุปสรรคหรือได้รับสิ่งที่ดีๆนอกเหนือความคาดหมาย เรื่องการงานอาจจะมีเรื่องให้ต้องคอยแก้ปัญหาอยู่บ่อยๆไม่จบไม่สิ้น หากคิดจะเก็งกำไรหรือเ่ลนหุ้นจะไม่ได้ตามเป้าหมาย ควรรอเวลาสักหน่ย หลังวันเกิดของคุณเอง",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

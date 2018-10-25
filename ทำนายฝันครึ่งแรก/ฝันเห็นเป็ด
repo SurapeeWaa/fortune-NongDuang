@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ฝันเห็นเป็ด",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "meaning...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "จะมีเรื่องทะเลาะวิวาทกันของคนในบ้าน จะทำของหาย หรือสูญเสียของที่รัก ความใจร้อนใจเร็วของคุณจะพาคุณตกเหวได้ทุกเมื่อ ถ้าคุณคิดช้าอีกนิดทบทวนอีกหน่อยจะทำให้ถึงที่หมายสำเร็จได้",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "love...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "คนที่คุณรักดูเหมือนจะเป็นที่ต้องตาต้องใจของคนอื่นๆด้วย อยากได้บุตรหลาน ต้องขยันมีเพศสัมพันธ์ให้บ่อยครั้งจึงจะสมหวัง มีดวงว่าคนรักของคุณจะมีความสัมพันธ์ฉันชู้สาวกับคนที่คุณสงสัยนั่นแหละ",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "work...",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "มีโอกาสปรับเปลี่ยนงาน โยกย้ายสายงาน หรือ ได้รับอะไรที่แตกต่างจากเดิมที่เป็นอยู่ คนรอบข้างหวังจะพึ่งพาบัตรเครดิตของคุณเพื่อรูดซื้อของชิ้นใหญ่ แล้วจะตกอยู่ในภาวะกลืนไม่เข้าคายไม่ออกสำหรับคนที่ทำอาชีพค้าขาย หรือทำธุรกิจส่วนตัวในเดือนนี้เป็นเดือนที่กำไรงาม มีเกณฑ์ได้ขยับ ขยายกิจการ",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
