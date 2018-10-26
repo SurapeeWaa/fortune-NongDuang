@@ -1,0 +1,97 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ในปี 2561",
+          "size": "xl",
+          "align": "center",
+          "color": "#04185F"
+        }
+      ]
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ปีนักษัตรที่ชงได้แก่",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ปีนักษัตรที่ชง 100% ในปี 2561 คือปีนักษัตรปีมะโรง",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ปีนักษัตรที่ร่วมชง",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "1.คนที่เกิดปีจอ จะเจออุปสรรค ทำอะไรก็จะติดขัด\n2.คนที่เกิดปีมะแม ต้องระวังปัญหาเรื่องสุขภาพ\n3.คนที่เกิดปีฉลู อาจะประสบเคราะห์กรรม",
+              "margin": "sm",
+              "wrap": true
+            },
+            {
+              "type": "separator",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "สำหรับวิธีแก้ปีชง",
+              "size": "lg",
+              "align": "center",
+              "weight": "bold",
+              "color": "#9D40E7"
+            },
+            {
+              "type": "text",
+              "text": "ให้เดินทางไปวัดเล่งเน่ยยี่ และทำพิธีฝากดวงกับองไท้ส่วย เพื่อบรรเทาเคราะห์กรรม หรือเดินทางไหว้พระ 9 วัด บริจาคโลหิต ทำกุศลจิตอาสา ทำบุญช่วยชีวิตสัตว์ ทำบุญให้คนตายหรือผู้ยากไร้ การนั่งสมาธิแผ่เมตตา แผ่บุญบารมีก็เป็นอีกอย่างที่เราสามารถทำได้ที่บ้าน",
+              "margin": "sm",
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
