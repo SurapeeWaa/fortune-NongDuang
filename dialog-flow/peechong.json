@@ -1,0 +1,86 @@
+{
+  "id": "cdc4d544-c5ac-43c6-b9fc-6649c7a4454c",
+  "name": "ปีชง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "line",
+          "payload": {
+            "line": {
+              "type": "template",
+              "altText": "ปีชง",
+              "template": {
+                "type": "buttons",
+                "actions": [
+                  {
+                    "type": "message",
+                    "label": "ปีชง 2561",
+                    "text": "ปีชง2561"
+                  },
+                  {
+                    "type": "message",
+                    "label": "ปีชง 2562",
+                    "text": "ปีชง2562"
+                  }
+                ],
+                "title": "ปีชง",
+                "text": "เลือกปีพ.ศ.ที่ต้องการจะทราบ"
+              }
+            }
+          },
+          "lang": "th"
+        },
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "c081a916-cde8-464d-8838-3a9caf2450c0",
+      "data": [
+        {
+          "text": "ชง"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    },
+    {
+      "id": "179baa52-8efd-4a59-86b5-3e1926738698",
+      "data": [
+        {
+          "text": "ปีชง"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

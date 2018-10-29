@@ -1,0 +1,132 @@
+{
+  "id": "4228ff4a-2020-4b4d-8e28-c78eb3a62cf1",
+  "name": "ปีชง2562",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7eca6385-26a5-4be4-8e59-55855dad0f0f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "line",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "ปีชง2562",
+              "contents": {
+                "type": "bubble",
+                "direction": "ltr",
+                "header": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://github.com/SurapeeWaa/fortune-nongduang/blob/master/img/peechong.jpg?raw=true",
+                      "size": "full",
+                      "backgroundColor": "#371A41"
+                    }
+                  ]
+                },
+                "body": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "ปีชง ไม่ควรเข้าร่วมงานศพหรือพิธีศพ มิเช่นนั้นจะส่งผลถึงปัญหาสุขภาพและส่งผลกระทบต่อกิจการค้าขาย",
+                      "size": "md",
+                      "align": "center",
+                      "gravity": "center",
+                      "weight": "regular",
+                      "color": "#FFFFFF",
+                      "wrap": true
+                    }
+                  ]
+                },
+                "footer": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "วิธีแก้ชง",
+                        "text": "วิธีแก้ชง"
+                      },
+                      "color": "#FFFFFF"
+                    }
+                  ]
+                },
+                "styles": {
+                  "header": {
+                    "backgroundColor": "#3B1649"
+                  },
+                  "body": {
+                    "backgroundColor": "#522850",
+                    "separatorColor": "#FFFFFF"
+                  },
+                  "footer": {
+                    "backgroundColor": "#3B1649"
+                  }
+                }
+              }
+            }
+          },
+          "lang": "th"
+        },
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "73f4935b-47ed-4686-9efb-941c49adc7ec",
+      "data": [
+        {
+          "text": "ปีชง"
+        },
+        {
+          "text": "2562",
+          "alias": "number",
+          "meta": "@sys.number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}
